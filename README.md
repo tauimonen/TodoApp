@@ -1,6 +1,6 @@
 # Basic React Todo app 
 
-to show, add delete todos. Delete todos by clicking them. Deployed: https://tauimonen.github.io/TodoApp/
+to show, add and delete todos. Delete todos by clicking them. Deployed: https://tauimonen.github.io/TodoApp/
 
 # Getting Started with Create React App
 
