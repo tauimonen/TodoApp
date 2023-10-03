@@ -1,3 +1,7 @@
+# Basic React Todo app 
+
+to show, add and delete Todos.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
