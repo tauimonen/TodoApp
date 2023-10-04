@@ -1,6 +1,7 @@
 # Basic React Todo app 
 
-<<<<<<< HEAD
+to show, add and delete todos. Delete todos by clicking them. Deployed: https://tauimonen.github.io/TodoApp/
+
 4.10.2024 Made a change from JavaScript to TypeScript:
 Change  .js files  -> .tsx
 Import react to .tsx files
@@ -8,11 +9,6 @@ Create tsconfig.json by npx tsc --init
 Comment out and change "jsx": "react-jsx" in tsconfig.json
 Fix errors related to data types
 
-
-to show, add and delete Todos.
-=======
-to show, add and delete todos. Delete todos by clicking them. Deployed: https://tauimonen.github.io/TodoApp/
->>>>>>> d31b57778b73ddb7aebe0592fe6dd2efd570ba92
 
 # Getting Started with Create React App
 
