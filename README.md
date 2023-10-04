@@ -1,5 +1,13 @@
 # Basic React Todo app 
 
+4.10.2024 Made a change from JavaScript to TypeScript:
+Change  .js files  -> .tsx
+Import react to .tsx files
+Create tsconfig.json by npx tsc --init
+Comment out and change "jsx": "react-jsx" in tsconfig.json
+Fix errors related to data types
+
+
 to show, add and delete Todos.
 
 # Getting Started with Create React App

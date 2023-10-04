@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 
-function NewTodoForm(props) {
+function NewTodoForm(props: {addTodo: Function}) {
 
     const [description, setDescription] = useState('');
     const [assigned, setAssigned] = useState('');
@@ -21,7 +21,7 @@ function NewTodoForm(props) {
                     <input 
                         type="text" 
                         className="form-control" 
-                        requided 
+                        required 
                         onChange={e => setAssigned(e.target.value)}
                         value={assigned}
                     />
