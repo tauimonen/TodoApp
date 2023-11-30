@@ -2,7 +2,7 @@
 
 to show, add and delete Todos.
 
-4.10.2024 Migrating from JavaScript to TypeScript:
+4.10.2023 Migrating from JavaScript to TypeScript:
 - npm install --save typescript @types/node @types/react @types/react-dom @types/jest
 - Change  .js files  -> .tsx
 - Import react to .tsx files
